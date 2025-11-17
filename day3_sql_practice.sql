@@ -1,6 +1,4 @@
 -- 🗂️ DAY 3: SQL DDL COMMANDS & CONSTRAINTS PRACTICE
--- Created by: Aman Vishwakarma
--- Date: [Current Date]
 
 -- =============================================
 -- 🏗️ DDL COMMANDS PRACTICE
