@@ -18,7 +18,7 @@ My Data Analytics Learning Journey - SQL, Python, Power BI
 - ✅ NumPy & Pandas Mastery
 - ✅ Data Visualization with Matplotlib, Seaborn, Plotly
 - ✅ GitHub Profile Setup
-- 🔄 SQL Learning
+- ✅ SQL Learning
 - 🔄 Power BI Learning
 - 🔄 Statistics for Data Analysis
 
