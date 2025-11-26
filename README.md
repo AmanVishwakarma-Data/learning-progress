@@ -29,7 +29,10 @@ My Data Analytics Learning Journey - SQL, Python, Power BI
 - Master SQL and Power BI
 
 ## 📂 Projects
-- Coming soon...
+- 🔗 **SQL Music Store Analysis**  
+  https://github.com/AmanVishwakarma-Data/SQL-Music-Store-Analysis
+
+- 🚀 More projects coming soon...
 
 ## 📫 Connect with Me
 - GitHub: [AmanVishwakarma-Data](https://github.com/AmanVishwakarma-Data)
